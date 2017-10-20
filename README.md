@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Update to readme
+Learning compsci from Scratch.
